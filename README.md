@@ -50,19 +50,13 @@ Able to analyze existing codebases, improve system stability, and deliver effici
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenB00&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
----
-
-## 📉 Contribution Activity
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=HelenB00&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenB1031&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenB00&show_icons=true&count_private=true&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenB1031&show_icons=true&count_private=true&layout=compact&theme=radical)
 
 ---
 
