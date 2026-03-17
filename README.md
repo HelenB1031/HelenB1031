@@ -35,11 +35,11 @@ Able to analyze existing codebases, improve system stability, and deliver effici
 ## 💼 What I Do
 
 ### Frontend Development
-- Developing dynamic web applications with **React**, **Vue**, and **Angular**.
+- Developing dynamic web applications with **React**, **Nextjs**, **Vue**, and **Angular**.
 - Building responsive, mobile-first designs and user interfaces.
 
 ### Backend Development
-- Developing robust and scalable APIs with **Node.js**, **PHP**, and **Python**.
+- Developing robust and scalable APIs with **Laravel**, **Node.js**, **PHP**, and **Python**.
 - Designing and managing databases with **MySQL**, **PostgreSQL**, and **MongoDB**.
 
 ### Full-Stack Engineering
@@ -67,6 +67,6 @@ Able to analyze existing codebases, improve system stability, and deliver effici
 ---
 
 ## 📬 Contact Information
-- **Email**: [helen@example.com](mailto:helen@example.com)
-- **GitHub**: [github.com/HelenB00](https://github.com/HelenB00)
-- **LinkedIn**: [linkedin.com/in/helenbradley](https://www.linkedin.com/in/helenbradley)
+- **Email**: [helen@example.com](mailto:Helen1031B@outlook.com)
+- **GitHub**: [github.com/HelenB00](https://github.com/HelenB1031)
+- **TG**: [linkedin.com/in/helenbradley](https://t.me/Helen1031B))
