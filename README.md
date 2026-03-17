@@ -80,12 +80,9 @@ Able to analyze **existing codebases**, improve **system stability**, and delive
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HelenB1031&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
----
-
-## 📈 Most Used Languages
+### 📈 Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenB1031&show_icons=true&count_private=true&layout=compact&theme=radical)
-
 ---
 
 ## 📬 Contact Information
