@@ -1,5 +1,9 @@
 ## Helen Bradley - Senior Full-Stack Developer
 
+## <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Helen+Bradley+-+Senior+Full-Stack+Developer" />
+</p>
+
 ![Background Image](https://raw.githubusercontent.com/HelenB1031/HelenB1031/main/profile.jpg)
 
 ## 👨‍💻 About Me
