@@ -1,36 +1,4 @@
-# <h1 class="shine-text">
-  Helen Bradley - Senior Full-Stack Developer
-</h1>
-.shine-text {
-  font-size: 28px;
-  font-weight: bold;
-  color: #333;
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-}
-
-.shine-text::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    120deg,
-    transparent,
-    rgba(255, 255, 255, 0.8),
-    transparent
-  );
-  animation: shine 2.5s infinite;
-}
-
-@keyframes shine {
-  100% {
-    left: 100%;
-  }
-}
+#Helen Bradley - Senior Full-Stack Developer
 
 ![Background Image](https://raw.githubusercontent.com/HelenB1031/HelenB1031/main/profile.jpg)
 
