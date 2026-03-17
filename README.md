@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Senior Full-Stack Developer with over 4 years of commercial experience in developing high-load web applications and scalable backend systems.  
+Skilled in designing REST APIs, database architecture, and performance optimization.  
+Strong focus on clean architecture, maintainable code, and reliable production environments.  
+Able to analyze existing codebases, improve system stability, and deliver efficient solutions aligned with business requirements.
 <!--
 **HelenB1031/HelenB1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
