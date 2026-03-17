@@ -1,4 +1,4 @@
-#Helen Bradley - Senior Full-Stack Developer
+## Helen Bradley - Senior Full-Stack Developer
 
 ![Background Image](https://raw.githubusercontent.com/HelenB1031/HelenB1031/main/profile.jpg)
 
