@@ -87,9 +87,8 @@ Able to analyze **existing codebases**, improve **system stability**, and delive
 ---
 
 ## 📬 Contact Information
-- **Email**: [helen@example.com](mailto:Helen1031B@outlook.com)
-- **GitHub**: [github.com/HelenB00](https://github.com/HelenB1031)
-- **TG**: [linkedin.com/in/helenbradley](https://t.me/Helen1031B))
+- **Email**: (mailto:Helen1031B@outlook.com)
+- **GitHub**: (https://github.com/HelenB1031)
 
 ---
 
