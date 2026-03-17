@@ -19,7 +19,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)](https://www.typescriptlang.org/)  
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)](https://reactjs.org/)  
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)](https://vuejs.org/)  
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)](https://nextjs.org/)  
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)](https://nextjs.org/)
 
 ### Backend Development
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)](https://nodejs.org/)  
