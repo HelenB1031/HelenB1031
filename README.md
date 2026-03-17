@@ -81,3 +81,26 @@
 - **Email**: [helen@example.com](mailto:Helen1031B@outlook.com)
 - **GitHub**: [github.com/HelenB00](https://github.com/HelenB1031)
 - **TG**: [linkedin.com/in/helenbradley](https://t.me/Helen1031B))
+
+---
+
+- ## 🎯 Achievements & Certifications
+- **AWS Certified Developer**
+- **Docker Certified Associate**
+- Contributed to **open-source projects** on GitHub
+- Built and deployed **multiple web applications** with high traffic
+
+---
+
+## 📚 Education
+**Bachelor's Degree in Computer Science and Technology**  
+Shanghai University of Engineering Science | **Graduated in 2022**
+
+---
+
+## 🔧 How I Work
+- I work **remotely** and am comfortable collaborating with **distributed teams**.
+- I focus on **clean code**, **efficient solutions**, and delivering projects on time.
+- I continuously learn new technologies and best practices to keep up with industry trends
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or collaboration opportunities.
