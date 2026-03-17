@@ -1,5 +1,5 @@
-## Hi there 👋
-Senior Full-Stack Developer with over 4 years of commercial experience in developing high-load web applications and scalable backend systems.  
+About me 👋
+✨Senior Full-Stack Developer✨ with over 4 years of commercial experience in developing high-load web applications and scalable backend systems.  
 Skilled in designing REST APIs, database architecture, and performance optimization.  
 Strong focus on clean architecture, maintainable code, and reliable production environments.  
 Able to analyze existing codebases, improve system stability, and deliver efficient solutions aligned with business requirements.
