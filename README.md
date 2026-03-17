@@ -1,6 +1,6 @@
 # Helen Bradley - Senior Full-Stack Developer
 
-![Background Image](https://github.com/HelenB1031/HelenB1031/main/profile.jpg)
+![Background Image](https://raw.githubusercontent.com/HelenB1031/HelenB1031/main/profile.jpg)
 
 ## About me 👋
 ✨Senior Full-Stack Developer✨ with over 4 years of commercial experience in developing high-load web applications and scalable backend systems.  
