@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-**Senior Full-Stack Developer** with **5+ years** of experience in building **high-performance web applications** and **scalable backend systems**.  
+I'm **Senior Full-Stack Developer** with **5+ years** of experience in building **high-performance web applications** and **scalable backend systems**.  
 Skilled in **designing REST APIs**, **database architecture**, and **performance optimization**.  
 Strong focus on **clean architecture**, **maintainable code**, and creating **reliable production environments**.  
 Able to analyze **existing codebases**, improve **system stability**, and deliver **efficient solutions** aligned with business requirements.
