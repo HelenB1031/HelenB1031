@@ -100,8 +100,7 @@ Able to analyze **existing codebases**, improve **system stability**, and delive
 
 ---
 
-## 📚 Education
-**Bachelor's Degree in Computer Science and Technology**  
+## 📚 Education 
 Shanghai University of Engineering Science | **Graduated in 2022**
 
 ---
