@@ -62,16 +62,17 @@ Able to analyze **existing codebases**, improve **system stability**, and delive
 ## 💼 What I Do
 
 ### Frontend Development
-- Developing dynamic web applications with **React**, **Nextjs**, **Vue**, and **Angular**.
-- Building responsive, mobile-first designs and user interfaces.
+- Developing dynamic web applications with **React**, **Vue.js**, **Next.js**, **Angular**, and **TypeScript**.
+- Building responsive, mobile-first designs and user interfaces with **HTML5**, **CSS3**, **TailwindCSS**, and **Sass**.
 
 ### Backend Development
-- Developing robust and scalable APIs with **Laravel**, **Node.js**, **PHP**, and **Python**.
-- Designing and managing databases with **MySQL**, **PostgreSQL**, and **MongoDB**.
+- Developing robust and scalable APIs with **Node.js**, **Express.js**, **PHP**, **Laravel**, **Python**, **Django**, and **Flask**.
+- Designing and managing databases with **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**, and **SQLite**.
 
 ### Full-Stack Engineering
-- Leading the full-stack development of complex applications.
-- Working on **CI/CD** pipelines, **microservices architecture**, and **cloud deployment**.
+- Leading the full-stack development of complex applications, including both frontend and backend systems.
+- Working on **CI/CD pipelines**, **microservices architecture**, **cloud deployment** (using **AWS**, **Docker**, **Kubernetes**).
+- Implementing automated testing and **performance optimization** for high-traffic applications.
 
 ---
 
