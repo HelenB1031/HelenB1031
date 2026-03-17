@@ -1,6 +1,6 @@
 ![Background Image](https://raw.githubusercontent.com/HelenB1031/HelenB1031/main/profile.jpg)
 
-## <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=900&lines=I'm+Helen+Bradley;I'm+Senior+Full-Stack+Developer" />
 </p>
 
